@@ -3,5 +3,5 @@ B = [9, 6, 19, 12, 31, 14, 13, 5, 3, 7, 9, 6, 6, 21, 9,  21, 13, 12]
 D = (1:4);
 C = A.*D
 
-fprintf('SEPT OCT NOV DEC JAN FEB')
+fprintf('costsPerMonth',\n)
 fprintf(C)
